@@ -1,2 +1,3 @@
 # codespaces-haskell-init
-Codespaces sample repository
+
+GitHub Codespaces sample repository for Haskell
